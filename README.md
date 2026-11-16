@@ -68,6 +68,8 @@ print(model.predict(yeni))
 ```
 ├── bisiklet_fiyati_tahmin.ipynb   # Ana notebook
 ├── bisiklet_fiyatlari.xlsx        # Veri seti
+├── bisiklet_modeli.h5             # Eğitilmiş model
+├── requirements.txt               # Bağımlılıklar
 └── README.md
 ```
 
